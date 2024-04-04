@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467649676481",
+    "project_id": "doaniotdemo",
+    "storage_bucket": "doaniotdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467649676481:android:f348ca1bb6bf4f6ddb0040",
+        "android_client_info": {
+          "package_name": "com.example.doaniot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8X6KYFN7-A6J4joG5BHcs6iBl2MMq_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
